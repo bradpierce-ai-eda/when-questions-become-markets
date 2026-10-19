@@ -1,0 +1,60 @@
+{
+  "cff-version": "1.2.0",
+  "message": "This repository is a machine-readable reflection of the DOI-linked Zenodo publication of record.",
+  "title": "When Questions Become Markets",
+  "authors": [
+    {
+      "family-names": "Pierce",
+      "given-names": "Brad",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "doi": "10.5281/zenodo.23464042",
+  "date-released": "2026-10-19",
+  "url": "https://bradpierce.ai/when-questions-become-markets/",
+  "version": "v1",
+  "license": "CC-BY-NC-4.0",
+  "abstract": "Questions become economically useful through work that makes them answerable, keeps observation capability available and turns findings into usable knowledge. Existing empirical studies show why this work belongs in the service and why its resource use needs to be counted. Howells reports fewer experimental trials, reduced factory wastage and a more informed purchaser in CERAM's work for IKEA. McCarthy and colleagues show farmers interpreting returned drone imagery with extension support. Aggeri and colleagues' platform cases place instruments inside continuing organizational arrangements. These findings inform present choices about what to purchase, maintain and return to participants. This report brings them together with information economics, data-market research, patents and financing precedents to examine an evidence economy and its possible extension through AI. Cheaper discovery could locate evidence that avoids collection, reveal a method that makes another action possible to assess, connect compatible buyers or retain useful work for later inquiries. Qualification, rights, access and continuing support determine the full cost of putting the additional connection to use. The proposed integrated AI service has no deployed-system evaluation or established commercial viability; its added benefit over capable procurement remains unmeasured. Specialists, embedded services, networks, cooperatives and public purchasers can organize different parts of this work. Their choices determine which questions receive resources, which capabilities endure and who controls the next inquiry.",
+  "keywords": [
+    "evidence services",
+    "AI-assisted evidence discovery",
+    "observation capability",
+    "technical intermediation",
+    "engineering procurement",
+    "data markets",
+    "collective purchasing",
+    "observation finance",
+    "institutional memory"
+  ],
+  "preferred-citation": {
+    "type": "report",
+    "title": "When Questions Become Markets",
+    "authors": [
+      {
+        "family-names": "Pierce",
+        "given-names": "Brad",
+        "orcid": "https://orcid.org/0009-0009-7427-2969"
+      }
+    ],
+    "year": 2026,
+    "month": 10,
+    "date-published": "2026-10-19",
+    "doi": "10.5281/zenodo.23464042",
+    "url": "https://doi.org/10.5281/zenodo.23464042",
+    "publisher": {
+      "name": "Zenodo"
+    },
+    "abstract": "Questions become economically useful through work that makes them answerable, keeps observation capability available and turns findings into usable knowledge. Existing empirical studies show why this work belongs in the service and why its resource use needs to be counted. Howells reports fewer experimental trials, reduced factory wastage and a more informed purchaser in CERAM's work for IKEA. McCarthy and colleagues show farmers interpreting returned drone imagery with extension support. Aggeri and colleagues' platform cases place instruments inside continuing organizational arrangements. These findings inform present choices about what to purchase, maintain and return to participants. This report brings them together with information economics, data-market research, patents and financing precedents to examine an evidence economy and its possible extension through AI. Cheaper discovery could locate evidence that avoids collection, reveal a method that makes another action possible to assess, connect compatible buyers or retain useful work for later inquiries. Qualification, rights, access and continuing support determine the full cost of putting the additional connection to use. The proposed integrated AI service has no deployed-system evaluation or established commercial viability; its added benefit over capable procurement remains unmeasured. Specialists, embedded services, networks, cooperatives and public purchasers can organize different parts of this work. Their choices determine which questions receive resources, which capabilities endure and who controls the next inquiry.",
+    "keywords": [
+      "evidence services",
+      "AI-assisted evidence discovery",
+      "observation capability",
+      "technical intermediation",
+      "engineering procurement",
+      "data markets",
+      "collective purchasing",
+      "observation finance",
+      "institutional memory"
+    ]
+  }
+}

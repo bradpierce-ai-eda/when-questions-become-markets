@@ -1,0 +1,305 @@
+{
+  "id": "23464042",
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.23464042",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:23464042",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "<p class=\"p1\">This report was developed by Brad Pierce with substantial assistance from an AI model. He established the&nbsp;research objectives and editorial direction and retains responsibility for the claims, source attributions, and&nbsp;decisions about publication.</p>",
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "type": {
+          "id": "methods",
+          "title": {
+            "de": "Methoden",
+            "en": "Methods"
+          }
+        }
+      }
+    ],
+    "additional_titles": [
+      {
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "title": "AI, Evidence Discovery, and the Financing of New Observations",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      }
+    ],
+    "copyright": "© 2026 Brad Pierce",
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Pierce",
+          "given_name": "Brad",
+          "identifiers": [
+            {
+              "identifier": "0009-0009-7427-2969",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Pierce, Brad",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Questions become economically useful through work that makes them answerable, keeps observation capability available and turns findings into usable knowledge. Existing empirical studies show why this work belongs in the service and why its resource use needs to be counted. Howells reports fewer experimental trials, reduced factory wastage and a more informed purchaser in CERAM's work for IKEA. McCarthy and colleagues show farmers interpreting returned drone imagery with extension support. Aggeri and colleagues' platform cases place instruments inside continuing organizational arrangements. These findings inform present choices about what to purchase, maintain and return to participants. This report brings them together with information economics, data-market research, patents and financing precedents to examine an evidence economy and its possible extension through AI. Cheaper discovery could locate evidence that avoids collection, reveal a method that makes another action possible to assess, connect compatible buyers or retain useful work for later inquiries. Qualification, rights, access and continuing support determine the full cost of putting the additional connection to use. The proposed integrated AI service has no deployed-system evaluation or established commercial viability; its added benefit over capable procurement remains unmeasured. Specialists, embedded services, networks, cooperatives and public purchasers can organize different parts of this work. Their choices determine which questions receive resources, which capabilities endure and who controls the next inquiry.</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2026-10-19",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.respol.2006.03.005",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.3390/agriculture13051075",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.4000/rei.2413",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.23256253",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-report",
+          "title": {
+            "de": "Bericht",
+            "en": "Report"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.23377117",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-report",
+          "title": {
+            "de": "Bericht",
+            "en": "Report"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-report",
+      "title": {
+        "de": "Bericht",
+        "en": "Report"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "icon": "cc-by-nc-icon",
+        "id": "cc-by-nc-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution Non Commercial 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "id": "euroscivoc:297",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/4c8f4b46-6f5c-41d9-9079-7de85c16431d",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:23,euroscivoc:47"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Artificial intelligence"
+      },
+      {
+        "id": "euroscivoc:61851014",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/cf763962-65d9-44ae-beb5-1bdcb7782839",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:29,euroscivoc:91,euroscivoc:523"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Innovation management"
+      },
+      {
+        "id": "euroscivoc:521",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/e27cd9b6-055c-480d-8d63-e2d366ca94d7",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:29,euroscivoc:91"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Economics"
+      },
+      {
+        "subject": "evidence services"
+      },
+      {
+        "subject": "AI-assisted evidence discovery"
+      },
+      {
+        "subject": "observation capability"
+      },
+      {
+        "subject": "technical intermediation"
+      },
+      {
+        "subject": "engineering procurement"
+      },
+      {
+        "subject": "data markets"
+      },
+      {
+        "subject": "collective purchasing"
+      },
+      {
+        "subject": "observation finance"
+      },
+      {
+        "subject": "institutional memory"
+      }
+    ],
+    "title": "When Questions Become Markets"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "when-questions-become-markets.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e4cd2066cd8df17bf47031fb5449c16d",
+        "ext": "pdf",
+        "id": "7600cae2-80de-44cb-9494-3d026b6efe69",
+        "key": "when-questions-become-markets.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/23464042/files/when-questions-become-markets.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:23464042/canvas/when-questions-become-markets.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/info.json",
+          "self": "https://zenodo.org/api/records/23464042/files/when-questions-become-markets.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 2085240,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 2085240
+  },
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  },
+  "revision_id": 3,
+  "is_published": true
+}

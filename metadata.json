@@ -1,0 +1,40 @@
+{
+  "title": "When Questions Become Markets",
+  "subtitle": "AI, Evidence Discovery, and the Financing of New Observations",
+  "abstract": "Questions become economically useful through work that makes them answerable, keeps observation capability available and turns findings into usable knowledge. Existing empirical studies show why this work belongs in the service and why its resource use needs to be counted. Howells reports fewer experimental trials, reduced factory wastage and a more informed purchaser in CERAM's work for IKEA. McCarthy and colleagues show farmers interpreting returned drone imagery with extension support. Aggeri and colleagues' platform cases place instruments inside continuing organizational arrangements. These findings inform present choices about what to purchase, maintain and return to participants. This report brings them together with information economics, data-market research, patents and financing precedents to examine an evidence economy and its possible extension through AI. Cheaper discovery could locate evidence that avoids collection, reveal a method that makes another action possible to assess, connect compatible buyers or retain useful work for later inquiries. Qualification, rights, access and continuing support determine the full cost of putting the additional connection to use. The proposed integrated AI service has no deployed-system evaluation or established commercial viability; its added benefit over capable procurement remains unmeasured. Specialists, embedded services, networks, cooperatives and public purchasers can organize different parts of this work. Their choices determine which questions receive resources, which capabilities endure and who controls the next inquiry.",
+  "keywords": [
+    "evidence services",
+    "AI-assisted evidence discovery",
+    "observation capability",
+    "technical intermediation",
+    "engineering procurement",
+    "data markets",
+    "collective purchasing",
+    "observation finance",
+    "institutional memory"
+  ],
+  "publication_date": "2026-10-19",
+  "manuscript_date": "2026-10-18",
+  "doi": "10.5281/zenodo.23464042",
+  "concept_doi": "10.5281/zenodo.23464041",
+  "zenodo_record": "https://zenodo.org/records/23464042",
+  "license": "CC-BY-NC-4.0",
+  "relevance_and_citation_scope": [
+    "This report is a synthesis of evidence services, technical intermediation, supported observation capability, procurement, data markets and observation finance, with conditional analysis of AI-assisted evidence discovery. Its practical implications concern what organizations purchase, maintain and return to participants, and how those decisions shape future inquiry.",
+    "The empirical findings discussed in the report remain attributable to the original studies, including Howells’s CERAM–IKEA account, McCarthy and colleagues’ work with farmers in Malawi, and Aggeri and colleagues’ life-science platform cases. The report brings those findings into a broader economic and institutional synthesis.",
+    "The integrated AI service is a proposed mechanism without a deployed-system evaluation or established commercial viability. Its additional benefit over capable procurement remains unmeasured. Public and collective purposes, purchasing power and institutional control remain explicit unresolved tensions.",
+    "The DOI-linked Zenodo report is the publication of record. These files are faithful machine-readable representations of that report; the report’s synthesis and interpretations remain distinct from findings originally reported by cited sources."
+  ],
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "url": "https://bradpierce.ai/when-questions-become-markets/",
+  "pdf_url": "https://bradpierce.ai/when-questions-become-markets/when-questions-become-markets.pdf",
+  "resource_type": "Report",
+  "publisher": "Zenodo",
+  "preferred_citation": "Pierce, Brad. (2026). When Questions Become Markets. Zenodo. https://doi.org/10.5281/zenodo.23464042",
+  "publication_of_record": "https://doi.org/10.5281/zenodo.23464042"
+}
