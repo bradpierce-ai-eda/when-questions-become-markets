@@ -1,0 +1,14 @@
+{
+  "pdf_sha256": "d5667e31ab98eed51a4781fe745ff241ef319b3751e2cdb34edb23ca85ed3780",
+  "pdf_bytes": 2085240,
+  "pdf_pages": 133,
+  "canonical_html_sha256": "884a0ac12e5c15d0ffe3c2a5e4b4fa7ca6f8cf2ba91f66ba4eadb0b942145aab",
+  "canonical_paragraphs_sha256": "8130493ae1030b8f2c5fa5c8d1a1601034fadb62ad6a7754963e35fabb8b6c5a",
+  "paragraphs": 1008,
+  "tables": 4,
+  "figures": 13,
+  "references": 169,
+  "works": 173,
+  "citation_links": 352,
+  "source_HTML_SHA256": "02047a8655e69c19c07784deb5afd8b33cf0597322a5e50f8f1e51c7b892c744"
+}
