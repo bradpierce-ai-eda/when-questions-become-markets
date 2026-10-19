@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce.ai/when-questions-become-markets/sitemap.xml
